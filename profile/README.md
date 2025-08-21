@@ -5,5 +5,5 @@ Benchmark JS.
 - [micro](https://github.com/js-benchmark-all/micro): Micro benchmarks for all JS runtimes & engines.
 
 ### Resources
-- Engines: [V8](https://github.com/js-benchmark-all/micro/misc/v8).
+- Engines: [V8](https://github.com/js-benchmark-all/micro/tree/main/misc/v8).
 - Benchmarking: [Writing good benchmarks](https://github.com/evanwashere/mitata#writing-good-benchmarks).
